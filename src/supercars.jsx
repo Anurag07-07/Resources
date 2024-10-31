@@ -12,7 +12,7 @@ import Pytorch from './logos/pytorch-logo.png'
 import Tensorflow from './logos/tensorflow.png'
 import CV from './logos/3084-computer_vision_main.jpg'
 import AdvancedCV from './logos/3084-computer_vision_main.jpg'
-
+import GenAI from './logos/genAI.jpeg'
 const links = [
 	{
 		name: 'React',
@@ -88,6 +88,11 @@ const links = [
 		name: 'Advanced Computer Vision',
 		url: 'https://www.youtube.com/watch?v=01sAkU_NvOY&pp=ygUbY29tcHV0ZXIgdmlzaW9uIGZ1bGwgY291cnNl',
 		logo: AdvancedCV,
+	},
+	{
+		name: 'Generative AI',
+		url: 'https://www.youtube.com/watch?v=F0GQ0l2NfHA',
+		logo: GenAI,
 	},
 
 ]
