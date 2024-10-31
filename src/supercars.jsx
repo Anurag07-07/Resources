@@ -94,6 +94,11 @@ const links = [
 		url: 'https://www.youtube.com/watch?v=F0GQ0l2NfHA',
 		logo: GenAI,
 	},
+	{
+		name: 'Generative AI Playlist',
+		url: 'https://www.youtube.com/playlist?list=PLseXYkzLxM8F4gypxDb7FQGPcoBQvfoyG',
+		logo: GenAI,
+	},
 
 ]
 
