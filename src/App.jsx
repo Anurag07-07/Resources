@@ -12,7 +12,7 @@ function App() {
   
   return (
     <div className='flex flex-col justify-center items-center bg-black text-white'>
-      <h1 className='text-4xl font-bold text-center w-[100vw] py-6'>Resources</h1>
+      <h1 className='text-4xl font-bold text-center w-[100vw] py-6'>Resources By Anurag Raj (AJ)</h1>
       <Cards links={value}></Cards>
     </div>      
   )

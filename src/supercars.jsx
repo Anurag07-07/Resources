@@ -13,6 +13,9 @@ import Tensorflow from './logos/tensorflow.png'
 import CV from './logos/3084-computer_vision_main.jpg'
 import AdvancedCV from './logos/3084-computer_vision_main.jpg'
 import GenAI from './logos/genAI.jpeg'
+import Native from './logos/native.jpeg'
+import Angular from './logos/Angular.jpeg'
+import TypeScript from './logos/Typescript_logo_2020.svg.png'
 const links = [
 	{
 		name: 'React',
@@ -95,9 +98,19 @@ const links = [
 		logo: GenAI,
 	},
 	{
-		name: 'Generative AI Playlist',
-		url: 'https://www.youtube.com/playlist?list=PLseXYkzLxM8F4gypxDb7FQGPcoBQvfoyG',
-		logo: GenAI,
+		name: 'Angular',
+		url: 'https://www.youtube.com/watch?v=3qBXWUpoPHo&t=5s',
+		logo: Angular,
+	},
+	{
+		name: 'React Native',
+		url: 'https://www.youtube.com/watch?v=KBWWxJdsFlY&t=42885s',
+		logo: Native,
+	},
+	{
+		name: 'TypeScript',
+		url: 'https://www.youtube.com/watch?v=66_bET6sI20&t=26373s',
+		logo: TypeScript,
 	},
 
 ]
