@@ -16,6 +16,7 @@ import GenAI from './logos/genAI.jpeg'
 import Native from './logos/native.jpeg'
 import Angular from './logos/Angular.jpeg'
 import TypeScript from './logos/Typescript_logo_2020.svg.png'
+import Tab from './logos/Tableau-Logo.png'
 const links = [
 	{
 		name: 'React',
@@ -111,6 +112,16 @@ const links = [
 		name: 'TypeScript',
 		url: 'https://www.youtube.com/watch?v=66_bET6sI20&t=26373s',
 		logo: TypeScript,
+	},
+	{
+		name: 'Tableau',
+		url: 'https://youtu.be/K3pXnbniUcM',
+		logo: Tab,
+	},
+	{
+		name: 'Tableau Project',
+		url: 'https://www.youtube.com/watch?v=UcGF09Awm4Y&t=0s',
+		logo: Tab,
 	},
 
 ]
