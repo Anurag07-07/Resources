@@ -43,7 +43,7 @@ const links = [
 	},
 	{
 		name: 'React',
-		url: 'https://www.youtube.com/watch?v=2-crBg6wpp0&t=173s',
+		url: 'https://www.youtube.com/watch?v=eILUmCJhl64&t=62531s',
 		logo: React,
 	},
 	{
