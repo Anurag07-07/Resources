@@ -31,9 +31,16 @@ import psql from './logos/postgree.png'
 import dbms from './logos/dbms-database-management-system-concept-with-icon-set-free-vector.jpg'
 import OS from './logos/Os.jpeg'
 import CN from './logos/cn.jpeg'
+import HTML from './logos/html.jpeg'
+
 
 
 const links = [
+	{
+		name: 'HTML',
+		url: 'https://www.youtube.com/watch?v=k7ELO356Npo&t=3s',
+		logo: HTML,
+	},
 	{
 		name: 'React',
 		url: 'https://www.youtube.com/watch?v=2-crBg6wpp0&t=173s',
