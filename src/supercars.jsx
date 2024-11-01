@@ -19,6 +19,20 @@ import TypeScript from './logos/Typescript_logo_2020.svg.png'
 import Tab from './logos/Tableau-Logo.png'
 import BC from './logos/blockchain-icon-design-cryptocurrency-digital-logo-vector.jpg'
 import AWS from './logos/aws-logo-scaled.jpg'
+import DSA from './logos/dsa-logo-dsa-letter-dsa-letter-logo-design-initials-dsa-logo-linked-with-circle-and-uppercase-monogram-logo-dsa-typography-for-technology-business-and-real-estate-brand-vector.jpg'
+import C from './logos/c++.jpg'
+import Java from './logos/Java-Logo.png'
+import Nestjs from './logos/nest.png'
+import Three from './logos/three.png'
+import Farmer from './logos/farmer.jpeg'
+import Gsap from './logos/gsap.jpeg'
+import sql from './logos/sql.png'
+import psql from './logos/postgree.png'
+import dbms from './logos/dbms-database-management-system-concept-with-icon-set-free-vector.jpg'
+import OS from './logos/Os.jpeg'
+import CN from './logos/cn.jpeg'
+
+
 const links = [
 	{
 		name: 'React',
@@ -64,6 +78,26 @@ const links = [
 		name: 'Next JS',
 		url: 'https://www.youtube.com/watch?v=mQnWCmVErnw&t=10s',
 		logo: Nextjs,
+	},
+	{
+		name: 'Nest JS',
+		url: 'https://www.youtube.com/watch?v=sFnAHC9lLaw&t=47366s',
+		logo: Nestjs,
+	},
+	{
+		name: 'Three Js',
+		url: 'https://www.youtube.com/watch?v=KM64t3pA4fs',
+		logo: Three,
+	},
+	{
+		name: 'Farmer Motion',
+		url: 'https://www.youtube.com/watch?v=znbCa4Rr054',
+		logo: Farmer,
+	},
+	{
+		name: 'GSAP',
+		url: 'https://www.youtube.com/playlist?list=PLbtI3_MArDOnIIJxB6xFtpnhM0wTwz0x6',
+		logo: Gsap,
 	},
 	{
 		name: 'Python',
@@ -135,6 +169,92 @@ const links = [
 		url: 'https://www.youtube.com/watch?v=zA8guDqfv40&t=2012s',
 		logo: AWS,
 	},
+	{
+		name: 'DSA in C++ (Coder Army)',
+		url: 'https://www.youtube.com/playlist?list=PLQEaRBV9gAFu4ovJ41PywklqI7IyXwr01',
+		logo: DSA,
+	},
+	{
+		name: 'DSA in C++ (Love Babbar)',
+		url: 'https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA',
+		logo: DSA,
+	},
+	{
+		name: 'DSA in Java',
+		url: 'https://www.youtube.com/playlist?list=PLQ7ZAf76c0ZPVdhV1bAjFv0bQc1xHURzE',
+		logo: DSA,
+	},
+	{
+		name: 'DSA Practise',
+		url: 'https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/',
+		logo: DSA,
+	},
+	{
+		name: 'C++',
+		url: 'https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL',
+		logo: C,
+	},
+	{
+		name: 'C++ In Details',
+		url: 'https://www.youtube.com/watch?v=8jLOx1hD3_o&t=395s',
+		logo: C,
+	},
+	{
+		name: 'Java Part 1',
+		url: 'https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL',
+		logo: Java,
+	},
+	{
+		name: 'Java Part 2',
+		url: 'https://www.youtube.com/watch?v=nNLqygSI-rE&t=42260s',
+		logo: Java,
+	},
+	{
+		name: 'Java Part 3',
+		url: 'https://www.youtube.com/watch?v=zMNBGVWGzmM&t=36949s',
+		logo: Java,
+	},
+	{
+		name: 'SQL',
+		url: 'https://www.youtube.com/watch?v=-fW2X7fh7Yg&t=185s',
+		logo: sql,
+	},
+	{
+		name: 'PostgreSQL',
+		url: 'https://www.youtube.com/watch?v=SpfIwlAYaKk',
+		logo: psql,
+	},
+	{
+		name: 'DBMS English',
+		url: 'https://www.youtube.com/watch?v=iwRneX7GIGI',
+		logo: dbms,
+	},
+	{
+		name: 'DBMS Hindi',
+		url: 'https://www.youtube.com/watch?v=dl00fOOYLOM&t=5s',
+		logo: dbms,
+	},
+	{
+		name: 'Operating System Hindi',
+		url: 'https://www.youtube.com/watch?v=3obEP8eLsCw&t=16s',
+		logo: OS,
+	},
+	{
+		name: 'Operating System English',
+		url: 'https://www.youtube.com/watch?v=yK1uBHPdp30&t=84676s',
+		logo: OS,
+	},
+	{
+		name: 'Computer Networks Hindi',
+		url: 'https://www.youtube.com/watch?v=q3Z3Qa1UNBA&list=PLmXKhU9FNesSjFbXSZGF8JF_4LVwwofCd&index=1&t=459s',
+		logo: CN,
+	},
+	{
+		name: 'Computer Networks English',
+		url: 'https://www.youtube.com/watch?v=qiQR5rTSshw',
+		logo: CN,
+	},
+	
 
 ]
 
