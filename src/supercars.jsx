@@ -17,6 +17,8 @@ import Native from './logos/native.jpeg'
 import Angular from './logos/Angular.jpeg'
 import TypeScript from './logos/Typescript_logo_2020.svg.png'
 import Tab from './logos/Tableau-Logo.png'
+import BC from './logos/blockchain-icon-design-cryptocurrency-digital-logo-vector.jpg'
+import AWS from './logos/aws-logo-scaled.jpg'
 const links = [
 	{
 		name: 'React',
@@ -122,6 +124,16 @@ const links = [
 		name: 'Tableau Project',
 		url: 'https://www.youtube.com/watch?v=UcGF09Awm4Y&t=0s',
 		logo: Tab,
+	},
+	{
+		name: 'BlockChain',
+		url: 'https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=3349s',
+		logo: BC,
+	},
+	{
+		name: 'AWS',
+		url: 'https://www.youtube.com/watch?v=zA8guDqfv40&t=2012s',
+		logo: AWS,
 	},
 
 ]
