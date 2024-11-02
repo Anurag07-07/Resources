@@ -45,8 +45,13 @@ const links = [
 		logo: HTML,
 	},
 	{
-		name: 'React',
+		name: 'React Hindi with Bootstrap',
 		url: 'https://www.youtube.com/watch?v=eILUmCJhl64&t=62531s',
+		logo: React,
+	},
+	{
+		name: 'React English with Tailwind',
+		url: 'https://www.youtube.com/watch?v=dz458ZkBMak&t=7679s',
 		logo: React,
 	},
 	{
