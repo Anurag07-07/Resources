@@ -35,7 +35,7 @@ import HTML from './logos/html.jpeg'
 import tailwind from './logos/tailwind-css.png'
 import boot from './logos/bootstrap-logo.png'
 import sass from './logos/sass.png'
-
+import RA from './logos/regression-icon-outline-style-thin-line-creative-logo-graphic-design-more-16310677.webp'
 
 
 const links = [
@@ -183,6 +183,11 @@ const links = [
 		name: 'Generative AI',
 		url: 'https://www.youtube.com/watch?v=F0GQ0l2NfHA',
 		logo: GenAI,
+	},
+	{
+		name: 'Regression Anylisis',
+		url: 'https://www.youtube.com/watch?v=2IZKK3pJQjg',
+		logo: RA,
 	},
 	{
 		name: 'Angular',
