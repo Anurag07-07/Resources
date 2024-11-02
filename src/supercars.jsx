@@ -34,6 +34,7 @@ import CN from './logos/cn.jpeg'
 import HTML from './logos/html.jpeg'
 import tailwind from './logos/tailwind-css.png'
 import boot from './logos/bootstrap-logo.png'
+import sass from './logos/sass.png'
 
 
 
@@ -72,6 +73,11 @@ const links = [
 		name: 'Bootstrap English',
 		url: 'https://www.youtube.com/watch?v=-qfEOE4vtxE',
 		logo: boot,
+	},
+	{
+		name: 'Sass',
+		url: 'https://www.youtube.com/watch?v=jfMHA8SqUL4&t=22s',
+		logo: sass,
 	},
 	{
 		name: 'JavaScript Part 1',
