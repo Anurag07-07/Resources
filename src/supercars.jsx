@@ -32,6 +32,8 @@ import dbms from './logos/dbms-database-management-system-concept-with-icon-set-
 import OS from './logos/Os.jpeg'
 import CN from './logos/cn.jpeg'
 import HTML from './logos/html.jpeg'
+import tailwind from './logos/tailwind-css.png'
+import boot from './logos/bootstrap-logo.png'
 
 
 
@@ -50,6 +52,26 @@ const links = [
 		name: 'CSS',
 		url: 'https://www.youtube.com/watch?v=OXGznpKZ_sA&t=37944s',
 		logo: Css,
+	},
+	{
+		name: 'Tailwind English',
+		url: 'https://www.youtube.com/watch?v=ft30zcMlFao&t=14044s',
+		logo: tailwind,
+	},
+	{
+		name: 'Tailwind Hindi',
+		url: 'https://www.youtube.com/watch?v=mGN9-FPsX9o&t=18s',
+		logo: tailwind,
+	},
+	{
+		name: 'Bootstrap Hindi',
+		url: 'https://www.youtube.com/watch?v=fB00t4At0rk',
+		logo: boot,
+	},
+	{
+		name: 'Bootstrap English',
+		url: 'https://www.youtube.com/watch?v=-qfEOE4vtxE',
+		logo: boot,
 	},
 	{
 		name: 'JavaScript Part 1',
