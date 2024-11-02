@@ -125,6 +125,11 @@ const links = [
 		logo: Nextjs,
 	},
 	{
+		name: 'Next JS Project',
+		url: 'https://www.youtube.com/watch?v=cso7-4oAPNQ',
+		logo: Nextjs,
+	},
+	{
 		name: 'Nest JS',
 		url: 'https://www.youtube.com/watch?v=sFnAHC9lLaw&t=47366s',
 		logo: Nestjs,
