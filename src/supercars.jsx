@@ -36,6 +36,9 @@ import tailwind from './logos/tailwind-css.png'
 import boot from './logos/bootstrap-logo.png'
 import sass from './logos/sass.png'
 import RA from './logos/regression-icon-outline-style-thin-line-creative-logo-graphic-design-more-16310677.webp'
+import Algebra from './logos/machine-learning-icon-artificial-intelligence-vector-35234364.jpg'
+import Stats from './logos/vector-statistics-icon.jpg'
+
 
 
 const links = [
@@ -188,6 +191,16 @@ const links = [
 		name: 'Regression Anylisis',
 		url: 'https://www.youtube.com/watch?v=2IZKK3pJQjg',
 		logo: RA,
+	},
+	{
+		name: 'Algebra for ML',
+		url: 'https://www.youtube.com/watch?v=rSjt1E9WHaQ',
+		logo: Algebra,
+	},
+	{
+		name: 'Statistics for ML',
+		url: 'https://www.youtube.com/watch?v=xxpc-HPKN28',
+		logo: Stats,
 	},
 	{
 		name: 'Angular',
