@@ -55,8 +55,13 @@ const links = [
 		logo: React,
 	},
 	{
-		name: 'CSS',
+		name: 'CSS English',
 		url: 'https://www.youtube.com/watch?v=OXGznpKZ_sA&t=37944s',
+		logo: Css,
+	},
+	{
+		name: 'CSS Hindi',
+		url: 'https://www.youtube.com/watch?v=dSJM4Gyh8jE&t=29093s',
 		logo: Css,
 	},
 	{
