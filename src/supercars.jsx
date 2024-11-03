@@ -38,7 +38,7 @@ import sass from './logos/sass.png'
 import RA from './logos/regression-icon-outline-style-thin-line-creative-logo-graphic-design-more-16310677.webp'
 import Algebra from './logos/machine-learning-icon-artificial-intelligence-vector-35234364.jpg'
 import Stats from './logos/vector-statistics-icon.jpg'
-
+import DA from './logos/data-analytics-logo-design-business-finance-logotype_969485-208.avif'
 
 
 const links = [
@@ -226,6 +226,11 @@ const links = [
 		name: 'Tableau Project',
 		url: 'https://www.youtube.com/watch?v=UcGF09Awm4Y&t=0s',
 		logo: Tab,
+	},
+	{
+		name: 'Full Data Anylitics Course',
+		url: 'https://www.youtube.com/watch?v=VaSjiJMrq24',
+		logo: DA,
 	},
 	{
 		name: 'BlockChain',
