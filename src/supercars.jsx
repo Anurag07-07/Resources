@@ -39,6 +39,7 @@ import RA from './logos/regression-icon-outline-style-thin-line-creative-logo-gr
 import Algebra from './logos/machine-learning-icon-artificial-intelligence-vector-35234364.jpg'
 import Stats from './logos/vector-statistics-icon.jpg'
 import DA from './logos/data-analytics-logo-design-business-finance-logotype_969485-208.avif'
+import flask from './logos/flask.jpeg'
 
 
 const links = [
@@ -156,6 +157,11 @@ const links = [
 		name: 'Python',
 		url: 'https://www.youtube.com/watch?v=UrsmFxEIp5k&pp=ygUScHl0aG9uIGZ1bGwgY291cnNl',
 		logo: Python,
+	},
+	{
+		name: 'Flask',
+		url: 'https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH',
+		logo: flask,
 	},
 	{
 		name: 'Scikit Learn',
