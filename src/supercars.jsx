@@ -40,6 +40,10 @@ import Algebra from './logos/machine-learning-icon-artificial-intelligence-vecto
 import Stats from './logos/vector-statistics-icon.jpg'
 import DA from './logos/data-analytics-logo-design-business-finance-logotype_969485-208.avif'
 import flask from './logos/flask.jpeg'
+import numpy from './logos/numpy.jpg'
+import kotlin from './logos/kotlin.jpeg'
+import flutter from './logos/flutter.jpeg'
+import springboot from './logos/spring boot.jpeg'
 
 
 const links = [
@@ -157,6 +161,11 @@ const links = [
 		name: 'Python',
 		url: 'https://www.youtube.com/watch?v=UrsmFxEIp5k&pp=ygUScHl0aG9uIGZ1bGwgY291cnNl',
 		logo: Python,
+	},
+	{
+		name: 'Numpy Pandas Matplotlib',
+		url: 'https://www.youtube.com/watch?v=GPVsHOlRBBI',
+		logo: numpy,
 	},
 	{
 		name: 'Flask',
@@ -292,6 +301,26 @@ const links = [
 		name: 'Java Part 3',
 		url: 'https://www.youtube.com/watch?v=zMNBGVWGzmM&t=36949s',
 		logo: Java,
+	},
+	{
+		name: 'Kotlin',
+		url: 'https://www.youtube.com/watch?v=EExSSotojVI&t=43s',
+		logo: kotlin,
+	},
+	{
+		name: 'Flutter',
+		url: 'https://www.youtube.com/watch?v=VPvVD8t02U8',
+		logo: flutter,
+	},
+	{
+		name: 'Spring Boot with JPA',
+		url: 'https://www.youtube.com/watch?v=5rNk7m_zlAg',
+		logo: springboot,
+	},
+	{
+		name: 'Spring Boot with Microservices',
+		url: 'https://www.youtube.com/watch?v=4XTsAAHW_Tc',
+		logo: springboot,
 	},
 	{
 		name: 'SQL',
