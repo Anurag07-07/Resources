@@ -44,6 +44,7 @@ import numpy from './logos/numpy.jpg'
 import kotlin from './logos/kotlin.jpeg'
 import flutter from './logos/flutter.jpeg'
 import springboot from './logos/spring boot.jpeg'
+import Backend from './logos/icons8-backend-100.png'
 
 
 const links = [
@@ -121,6 +122,11 @@ const links = [
 		name: 'JavaScript Part 2',
 		url: 'https://www.youtube.com/watch?v=_TjtAyMkiTI',
 		logo: Js,
+	},
+	{
+		name: 'Full Backend Node+Express',
+		url: 'https://www.youtube.com/playlist?list=PLu71SKxNbfoBGh_8p_NS-ZAh6v7HhYqHW',
+		logo: Backend,
 	},
 	{
 		name: 'Node JS',
