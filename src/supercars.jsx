@@ -53,13 +53,28 @@ const links = [
 		logo: HTML,
 	},
 	{
-		name: 'React Hindi with Bootstrap',
-		url: 'https://www.youtube.com/watch?v=eILUmCJhl64&t=62531s',
+		name: 'React Hindi',
+		url: 'https://www.youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige',
 		logo: React,
 	},
 	{
-		name: 'React English with Tailwind',
-		url: 'https://www.youtube.com/watch?v=dz458ZkBMak&t=7679s',
+		name: 'React English Part 1',
+		url: 'https://www.youtube.com/watch?v=qnwFpjIqsrA&t=8312s',
+		logo: React,
+	},
+	{
+		name: 'React English Part 2',
+		url: 'https://www.youtube.com/watch?v=futeaowy34Y&t=35934s',
+		logo: React,
+	},
+	{
+		name: 'React English Part 3',
+		url: 'https://www.youtube.com/watch?v=-Qnf2bME-rE&t=464s',
+		logo: React,
+	},
+	{
+		name: 'React English Part 4',
+		url: 'coming soon',
 		logo: React,
 	},
 	{
